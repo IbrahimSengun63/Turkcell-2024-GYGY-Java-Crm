@@ -28,6 +28,7 @@ In this project I was involved in the development of the Micro service setup and
 - Creation of business rules
 - Ensuring global exception handling
 - Testing via Docker
+
 🚀 I am happy to have completed the auth server, base server (core), and microservices setup and configurations development after a very instructive and developing process. It has been a very useful experience for me. I spent productive time both analyzing and coding the project, as well as during the testing phase.
 
 🙏 At the end of the day, I would like to thank Turkcell and all those who contributed to this process. My Linkedin address if you want to take a look:
