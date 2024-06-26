@@ -1,4 +1,4 @@
-# 🟡 Turkcell Crm Project - GYGY 3.0 - Yigit Kalay
+# 🟡 Turkcell Crm Project - GYGY 3.0 - İbrahim şengün
 
 
 This project was carried out within the scope of Turkcell Youth Investment Software for the Future 3.0 Java programme. With the 120-hour course, it was decided to do the project in groups. I took part in the development process of CustomerService from start to finish in the group I was in. 
